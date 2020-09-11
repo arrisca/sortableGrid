@@ -1,0 +1,34 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    border-spacing: 5px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.name1 {
+    background-color: red;
+}
+
+.name2 {
+    background-color: yellow;
+}
+
+.name3 {
+    background-color: blue;
+}
+
+.other {
+    background-color: white;
+}
